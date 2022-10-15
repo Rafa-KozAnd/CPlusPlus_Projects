@@ -6,7 +6,7 @@
 - Softwares/Work Tools: 'V.S. Code', 'Dev-C++';
 - Resume: ;
 - Obs: ;
-- Version: v.1.1.5
+- Version: v.1.0.0
 
 
 - Last Update Date: 14/10/2022.
